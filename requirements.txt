@@ -4,3 +4,6 @@ numpy==2.0.0
 scikit-learn==1.5.0
 plotly==5.22.0
 cython==3.0.11
+packaging==24.0
+wheel==0.43.0
+setuptools==70.0.0
